@@ -59,10 +59,10 @@
         <mxCell id="J-MjveByyJUr8qswm52i-62" value="共性分析" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="419" width="70" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J-MjveByyJUr8qswm52i-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="420" as="sourcePoint" />
-            <mxPoint x="360" y="370" as="targetPoint" />
+            <mxPoint x="220" y="440" as="sourcePoint" />
+            <mxPoint x="270" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
