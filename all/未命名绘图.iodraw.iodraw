@@ -1,0 +1,164 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="f8afIZ6d4IgrNbndpCdv">
+    <mxGraphModel dx="1002" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bR7EVWV-VttAo84uYymX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-2" value="几何结构优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="403" y="140" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-3" value="构建吸附结构层" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="411" y="256" width="143" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-4" value="计算不同体系吸附能E=EAB-EA-EB" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="370" y="381" width="224" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-5" value="建立包含输入及输出的机器学习模型用以筛选剩余的11820组MOFs吸附能" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="776" y="506" width="223" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-6" value="基于高通量计算与机器学习分离废水中重金属离子的MOFs材料筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="758" y="238" width="259" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-7" value="分子动力学模拟计算200组实验MOF的吸附能" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="644" y="381" width="217" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-8" value="RASPA2及zeo++-0.3计算12020组材料材料结构化学描述符" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="911" y="372" width="225" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-9" value="筛选TOP50MOFs" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="815" y="639" width="145" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-10" value="筛选出的50种MOF继续做分子动力学模拟吸附镍离子，得到对铜镍都具有高吸附性能的MOFs，并进行实验验证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="635" y="755" width="227" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-11" value="为12020组MOF材料做吸附能的垂直排列，并按比例挑选三种未知MOF按照实验方法制备，通过表征手段确认，在400mg/L,298K下做吸附实验,验证模拟结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="912" y="738" width="230" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-12" value="SEM:观察样品的表面形貌" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="383" y="942" width="208" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-13" value="XRD:确定材料的晶体结构和晶格常数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="641" y="933" width="225" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-14" value="通过密度泛函(DFT)考察MOFs材料对重金属离子的优先吸附位点" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="916" y="924" width="230" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-15" value="通过径向分布函数、扩散系数考察重金属离子在MOFs材料中的扩散速率及扩散机制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1195" y="924" width="228" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-16" value="对稳定且具有高吸附性能的MOFs做共性分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1058" y="1058" width="223" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-2" target="bR7EVWV-VttAo84uYymX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-3" target="bR7EVWV-VttAo84uYymX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-4" target="bR7EVWV-VttAo84uYymX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="482" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-6" target="bR7EVWV-VttAo84uYymX-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="752" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-6" target="bR7EVWV-VttAo84uYymX-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1023" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-7" target="bR7EVWV-VttAo84uYymX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="752" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-8" target="bR7EVWV-VttAo84uYymX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1023" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-5" target="bR7EVWV-VttAo84uYymX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-9" target="bR7EVWV-VttAo84uYymX-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="749" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-9" target="bR7EVWV-VttAo84uYymX-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1027" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-11" target="bR7EVWV-VttAo84uYymX-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="487" y="899" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-11" target="bR7EVWV-VttAo84uYymX-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="753" y="899" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-11" target="bR7EVWV-VttAo84uYymX-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="899" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-11" target="bR7EVWV-VttAo84uYymX-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1309" y="899" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.15;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-14" target="bR7EVWV-VttAo84uYymX-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="1033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bR7EVWV-VttAo84uYymX-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.86;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-15" target="bR7EVWV-VttAo84uYymX-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1309" y="1033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
