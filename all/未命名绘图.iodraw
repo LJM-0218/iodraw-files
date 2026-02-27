@@ -38,6 +38,9 @@
         <mxCell id="J-MjveByyJUr8qswm52i-13" value="&lt;div&gt;分子动力学模拟计算285组MOF在真实水环境下对Cu&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;2+&lt;/sup&gt;的&lt;/span&gt;吸附能&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J-MjveByyJUr8qswm52i-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-MjveByyJUr8qswm52i-18" target="J-MjveByyJUr8qswm52i-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-18" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;RASPA2及ze0++-0.3计算4000组材&lt;/font&gt;&lt;span style=&quot;font-family: ydbnrk4jMqeRTQitcO4b; background-color: initial;&quot;&gt;料结构/化学描述符&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="230" height="60" as="geometry" />
         </mxCell>
@@ -46,6 +49,9 @@
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-39" value="机器学习的标签值" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="315" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J-MjveByyJUr8qswm52i-41" value="" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="315" width="135" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
