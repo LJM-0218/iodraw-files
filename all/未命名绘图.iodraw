@@ -26,7 +26,7 @@
         <mxCell id="J-MjveByyJUr8qswm52i-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-MjveByyJUr8qswm52i-13" target="J-MjveByyJUr8qswm52i-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-13" value="&lt;div&gt;分子动力学模拟计算285组MOF在真实水环境下对Cu&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;2+&lt;/sup&gt;的&lt;/span&gt;吸附能&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-13" value="&lt;div&gt;从中挑选&lt;span style=&quot;background-color: initial;&quot;&gt;285组MOF进行&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;分子动力学模拟计算真实水环境下对Cu&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;sup&gt;2+&lt;/sup&gt;的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;吸附能&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-MjveByyJUr8qswm52i-18" target="J-MjveByyJUr8qswm52i-41">
