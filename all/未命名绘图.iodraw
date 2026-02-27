@@ -50,8 +50,8 @@
         <mxCell id="J-MjveByyJUr8qswm52i-52" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;筛选TOP10MOFs&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="307" y="390" width="190" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-56" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;筛选出的50种MOF继续做分子&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;vpX656O3aVMmUpO7IVDD&quot;&gt;动力学模拟吸附镍离子，得到&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;vpX656O3aVMmUpO7IVDD&quot;&gt;筛选TOP50MOFs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;vpX656O3aVMmUpO7IVDD&quot;&gt;对铜镍都具有高吸附性能的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;vpX656O3aVMmUpO7IVDD&quot;&gt;MOFs&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="380" width="215" height="54.5" as="geometry" />
+        <mxCell id="J-MjveByyJUr8qswm52i-56" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;筛选出的10种MOF继续做分子&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;vpX656O3aVMmUpO7IVDD&quot;&gt;动力学模拟吸附镍子，得到&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: vpX656O3aVMmUpO7IVDD;&quot;&gt;对铜镍都具有高吸附性能的&lt;/span&gt;&lt;span style=&quot;font-family: vpX656O3aVMmUpO7IVDD; background-color: initial;&quot;&gt;MOFs&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568" y="378" width="285" height="54.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
