@@ -32,7 +32,7 @@
         <mxCell id="J-MjveByyJUr8qswm52i-13" value="&lt;div&gt;分子动力学模拟计算200组实验&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-18" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;RASPA2及ze0++-0.3计算12020组材料材&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;ydbnrk4jMqeRTQitcO4b&quot;&gt;料结构/化学描述符&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;ydbnrk4jMqeRTQitcO4b&quot;&gt;MOF的吸附能&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
