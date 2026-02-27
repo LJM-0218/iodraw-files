@@ -51,8 +51,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="405" />
-              <mxPoint x="290" y="430" />
-              <mxPoint x="274" y="430" />
+              <mxPoint x="290" y="400" />
+              <mxPoint x="274" y="400" />
               <mxPoint x="274" y="393" />
             </Array>
           </mxGeometry>
@@ -64,7 +64,7 @@
           <mxGeometry x="568" y="377" width="192" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-58" value="共性分析" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="377" width="70" height="31.5" as="geometry" />
+          <mxGeometry x="162" y="377" width="70" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-62" value="共性分析" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="420" width="70" height="31.5" as="geometry" />
