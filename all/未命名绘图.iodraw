@@ -29,10 +29,10 @@
             <mxPoint x="430" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-13" value="&lt;div&gt;分子动力学模拟计算200组实验&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
