@@ -59,10 +59,10 @@
         <mxCell id="J-MjveByyJUr8qswm52i-56" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;筛选出的10种MOF继续做分子&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;vpX656O3aVMmUpO7IVDD&quot;&gt;动力学模拟吸附镍子，得到&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: vpX656O3aVMmUpO7IVDD;&quot;&gt;对铜镍都具有高吸附性能的&lt;/span&gt;&lt;span style=&quot;font-family: vpX656O3aVMmUpO7IVDD; background-color: initial;&quot;&gt;MOFs&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="568" y="377" width="192" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-58" value="共性分析" style="whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-58" value="共性分析" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="142" y="377" width="90" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-62" value="吸附快照/吸附密度" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-62" value="吸附快照/吸附密度" style="whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="124" y="420" width="108" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="J-MjveByyJUr8qswm52i-58">
