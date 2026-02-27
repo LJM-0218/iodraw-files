@@ -20,7 +20,7 @@
           <mxGeometry x="758" y="188" width="259" height="84" as="geometry" />
         </mxCell>
         <mxCell id="bR7EVWV-VttAo84uYymX-7" value="分子动力学模拟计算200组实验MOF的吸附能" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="644" y="381" width="217" height="66" as="geometry" />
+          <mxGeometry x="610" y="350" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="bR7EVWV-VttAo84uYymX-8" value="RASPA2及zeo++-0.3计算12020组材料材料结构化学描述符" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="911" y="372" width="225" height="84" as="geometry" />
@@ -69,13 +69,15 @@
         <mxCell id="bR7EVWV-VttAo84uYymX-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-6" target="bR7EVWV-VttAo84uYymX-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="752" y="347" />
+              <mxPoint x="760" y="300" />
+              <mxPoint x="710" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bR7EVWV-VttAo84uYymX-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bR7EVWV-VttAo84uYymX-6" target="bR7EVWV-VttAo84uYymX-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1070" y="300" />
               <mxPoint x="1023" y="347" />
             </Array>
           </mxGeometry>
