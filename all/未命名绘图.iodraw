@@ -50,6 +50,10 @@
         <mxCell id="J-MjveByyJUr8qswm52i-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J-MjveByyJUr8qswm52i-39" target="J-MjveByyJUr8qswm52i-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="370" />
+              <mxPoint x="405" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-39" value="机器学习的标签值" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
