@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-47" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;建立包含输入及输出的机器学习模型用以筛选剩余的3715组MOFs吸附能&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="221" y="332" width="360" height="31" as="geometry" />
+          <mxGeometry x="209" y="332" width="390" height="31" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-MjveByyJUr8qswm52i-52" target="J-MjveByyJUr8qswm52i-56">
           <mxGeometry relative="1" as="geometry" />
