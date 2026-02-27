@@ -44,8 +44,8 @@
         <mxCell id="J-MjveByyJUr8qswm52i-47" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;建立包含输入及输出的机器学习模型用以筛选剩余的3715组MOFs吸附能&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="332" width="310" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-52" value="&lt;div&gt;筛选TOP10MOFs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="J-MjveByyJUr8qswm52i-52" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;筛选TOP10MOFs&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
