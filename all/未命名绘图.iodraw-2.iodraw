@@ -98,7 +98,7 @@
           <mxGeometry x="590" y="180" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qmn2ys2dlwvind5ju0V9-44" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="590" y="580" width="100" height="60" as="geometry" />
+          <mxGeometry x="660" y="585" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
