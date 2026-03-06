@@ -77,14 +77,26 @@
         <mxCell id="wGn9duKaATVctAs2whqO-41" value="筛选与分析" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wGn9duKaATVctAs2whqO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wGn9duKaATVctAs2whqO-43" target="wGn9duKaATVctAs2whqO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-43" value="传统指标筛选" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="170" y="480" width="90.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wGn9duKaATVctAs2whqO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wGn9duKaATVctAs2whqO-45" target="wGn9duKaATVctAs2whqO-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-45" value="机器学习建模/预测" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="540" y="480" width="90.62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wGn9duKaATVctAs2whqO-48" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="320" y="550" width="180" height="50" as="geometry" />
+        <mxCell id="wGn9duKaATVctAs2whqO-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wGn9duKaATVctAs2whqO-48" target="wGn9duKaATVctAs2whqO-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGn9duKaATVctAs2whqO-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;候选MOF排序&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="310.01" y="544.5" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wGn9duKaATVctAs2whqO-56" value="" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="315.01" y="630" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
