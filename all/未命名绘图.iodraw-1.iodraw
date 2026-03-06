@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;金属有机框架材料数据库&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="60" width="200" height="50" as="geometry" />
+          <mxGeometry x="184" y="60" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wGn9duKaATVctAs2whqO-2" target="wGn9duKaATVctAs2whqO-6">
           <mxGeometry relative="1" as="geometry" />
@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-6" value="高通量模拟" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="210" width="105" height="30" as="geometry" />
+          <mxGeometry x="152.5" y="210" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wGn9duKaATVctAs2whqO-8" target="wGn9duKaATVctAs2whqO-11">
           <mxGeometry relative="1" as="geometry" />
