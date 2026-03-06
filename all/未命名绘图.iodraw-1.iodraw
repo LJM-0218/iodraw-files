@@ -25,11 +25,6 @@
         <mxCell id="wGn9duKaATVctAs2whqO-22" value="几何结构优化" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="359.38" y="234" width="91.25" height="29.25" as="geometry" />
         </mxCell>
-        <mxCell id="wGn9duKaATVctAs2whqO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.542;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wGn9duKaATVctAs2whqO-23" target="wGn9duKaATVctAs2whqO-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-23" value="结构标准化" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="490" y="234" width="90" height="30" as="geometry" />
         </mxCell>
@@ -37,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-30" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="345" y="313" width="120" height="60" as="geometry" />
+          <mxGeometry x="325.31" y="300" width="159.37" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
