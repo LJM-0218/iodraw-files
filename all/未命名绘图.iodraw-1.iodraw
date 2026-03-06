@@ -20,7 +20,12 @@
           <mxGeometry x="305" y="160" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wGn9duKaATVctAs2whqO-21" target="wGn9duKaATVctAs2whqO-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="280" />
+              <mxPoint x="405" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-21" value="去冗余/清洗" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="230" y="234" width="90" height="27" as="geometry" />
