@@ -20,10 +20,10 @@
           <mxGeometry x="305" y="160" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-21" value="去冗余/清洗" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="210" y="258" width="90" height="35" as="geometry" />
+          <mxGeometry x="210" y="252" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-22" value="几何结构优化" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="258" width="94.5" height="33.75" as="geometry" />
+          <mxGeometry x="358.75" y="256.13" width="92.5" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="wGn9duKaATVctAs2whqO-23" value="结构标准化" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="510" y="257" width="90" height="30" as="geometry" />
