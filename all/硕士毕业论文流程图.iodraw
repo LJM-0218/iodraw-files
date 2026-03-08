@@ -32,7 +32,7 @@
         <mxCell id="J-MjveByyJUr8qswm52i-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J-MjveByyJUr8qswm52i-18" target="J-MjveByyJUr8qswm52i-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-18" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;RASPA2及ze0++-0.3计算4000组材&lt;span style=&quot;background-color: initial;&quot;&gt;料结构/化学描述符&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;align=center;" parent="1" vertex="1">
+        <mxCell id="J-MjveByyJUr8qswm52i-18" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;RASPA2及ze0++-0.3计算4000组材&lt;span style=&quot;background-color: initial;&quot;&gt;料结构/化学描述符&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="240" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J-MjveByyJUr8qswm52i-20" target="J-MjveByyJUr8qswm52i-13" edge="1">
