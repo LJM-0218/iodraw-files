@@ -106,7 +106,7 @@
         <mxCell id="dmqALmls0tJbcMCwYtPS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="dmqALmls0tJbcMCwYtPS-2" target="J-MjveByyJUr8qswm52i-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dmqALmls0tJbcMCwYtPS-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;利用MS构建MOFs–水溶液界面模型，并通过文献中典型MOF对Cu²⁺吸附趋势对比验证模拟参数的可靠性。&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="dmqALmls0tJbcMCwYtPS-2" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;利用MS构建MOFs–水溶液界面模型，并通过文献中典型MOF对Cu²⁺吸附趋势对比验证模拟参数的可靠性。&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry y="230" width="260" height="90" as="geometry" />
         </mxCell>
       </root>
