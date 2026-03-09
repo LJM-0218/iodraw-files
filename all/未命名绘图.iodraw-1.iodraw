@@ -260,7 +260,7 @@
           <mxGeometry x="1160" y="360" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WkuK5cT-vmUNVnSi-4Tu-72" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;direction=north;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="800" width="1340" height="80" as="geometry" />
+          <mxGeometry x="-240" y="800" width="1380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WkuK5cT-vmUNVnSi-4Tu-74" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-230" y="610" width="60" height="100" as="geometry" />
