@@ -67,13 +67,13 @@
             <mxPoint x="-120" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkuK5cT-vmUNVnSi-4Tu-18" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WkuK5cT-vmUNVnSi-4Tu-11">
+        <mxCell id="WkuK5cT-vmUNVnSi-4Tu-18" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkuK5cT-vmUNVnSi-4Tu-13" target="WkuK5cT-vmUNVnSi-4Tu-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-280" y="470" as="sourcePoint" />
             <mxPoint x="-230" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkuK5cT-vmUNVnSi-4Tu-19" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+        <mxCell id="WkuK5cT-vmUNVnSi-4Tu-19" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.316;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WkuK5cT-vmUNVnSi-4Tu-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="480" as="sourcePoint" />
             <mxPoint x="20" y="430" as="targetPoint" />
