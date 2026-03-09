@@ -289,7 +289,7 @@
         <mxCell id="WkuK5cT-vmUNVnSi-4Tu-84" value="&lt;font style=&quot;font-size: 50px;&quot; face=&quot;Times New Roman&quot;&gt;Tree4&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1040" y="565" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkuK5cT-vmUNVnSi-4Tu-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;" edge="1" parent="1" source="WkuK5cT-vmUNVnSi-4Tu-85" target="WkuK5cT-vmUNVnSi-4Tu-92">
+        <mxCell id="WkuK5cT-vmUNVnSi-4Tu-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;" edge="1" parent="1" source="WkuK5cT-vmUNVnSi-4Tu-85" target="WkuK5cT-vmUNVnSi-4Tu-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WkuK5cT-vmUNVnSi-4Tu-85" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 50px;&quot;&gt;Majority Voting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -308,7 +308,7 @@
           <mxGeometry x="-240" y="740" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WkuK5cT-vmUNVnSi-4Tu-92" value="" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1051.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
