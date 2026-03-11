@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="70" width="460" height="39" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-12" value="&lt;p style=&quot;font-size: 15px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;基于&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;CORE-MOF&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据库计算水在孔道中的亨利系数，&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;并以&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ZIF-8&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;的水亨利系数&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;作为亲&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;/&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;疏水划分阈值，在阈值两侧分别抽取&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2000&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;个样本形成共&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;4000&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;个候选&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;MOF&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;集合&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="190" y="137" width="420" height="63" as="geometry" />
+          <mxGeometry x="190" y="137" width="420" height="73" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J-MjveByyJUr8qswm52i-12" target="J-MjveByyJUr8qswm52i-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -69,7 +69,7 @@
           <mxGeometry x="306" y="414" width="190" height="36" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-56" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;筛选出的10种MOF继续做分子&lt;font style=&quot;background-color: initial; font-size: 14px;&quot;&gt;动力学模拟吸附镍子，得到&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;对铜镍都具有高吸附性能的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MOFs&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="559" y="400" width="192" height="60" as="geometry" />
+          <mxGeometry x="559" y="402" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;共性分析&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="118" y="394" width="111" height="31.5" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-74" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;引入实验特征变量，做二阶段筛选&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="271" y="472" width="260" height="33" as="geometry" />
+          <mxGeometry x="271" y="479" width="260" height="33" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="J-MjveByyJUr8qswm52i-82" target="J-MjveByyJUr8qswm52i-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
