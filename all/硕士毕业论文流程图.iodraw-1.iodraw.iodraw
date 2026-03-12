@@ -54,16 +54,16 @@
           <mxGeometry x="110" y="380" width="119" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-62" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;吸附快照/吸附密度&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="109" y="437" width="120" height="31.5" as="geometry" />
+          <mxGeometry x="109" y="428" width="120" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="306" y="420.4254545454544" as="sourcePoint" />
-            <mxPoint x="230" y="406" as="targetPoint" />
+            <mxPoint x="306" y="406.4254545454544" as="sourcePoint" />
+            <mxPoint x="230" y="392" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="306" y="426" />
-              <mxPoint x="268" y="426" />
-              <mxPoint x="268" y="406" />
+              <mxPoint x="306" y="412" />
+              <mxPoint x="268" y="412" />
+              <mxPoint x="268" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
