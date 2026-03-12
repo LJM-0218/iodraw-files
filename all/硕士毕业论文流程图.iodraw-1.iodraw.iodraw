@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-1" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;构建MOFs–水溶液界面模型，并通过文献中典型MOF对Cu&lt;sup&gt;2+&lt;/sup&gt;吸附趋势对比验证模拟参数的可靠性。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="86" y="224" width="180" height="70" as="geometry" />
+          <mxGeometry x="93" y="224" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.892;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oSYGNMyR4Q0MpQ0apfu2-3" target="J-MjveByyJUr8qswm52i-47">
           <mxGeometry relative="1" as="geometry">
