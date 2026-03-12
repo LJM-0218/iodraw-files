@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-3" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;RASPA2及ze0++-0.3计算4000组材&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;料结构/化学描述符&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="210" height="70" as="geometry" />
+          <mxGeometry x="510" y="240" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-7" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; text-indent: 32px;&quot;&gt;基于二阶段模型对代表性候选材料开展工况敏感性分析，从动力学、剂量效应、&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; text-indent: 32px;&quot;&gt;pH&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; text-indent: 32px;&quot;&gt;影响与初始浓度响应等维度系统刻画材料性能随工况变化的响应规律，量化不同材料的条件敏感性与潜在最优操作窗口，为后续实验验证、参数优化与工程化选材提供了可操作的定量支撑。&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="161" y="605" width="480" height="60" as="geometry" />
