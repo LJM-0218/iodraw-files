@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J-MjveByyJUr8qswm52i-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60" y="30" width="720" height="670" as="geometry" />
+          <mxGeometry x="60" y="40" width="710" height="660" as="geometry" />
         </mxCell>
         <mxCell id="dmqALmls0tJbcMCwYtPS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="J-MjveByyJUr8qswm52i-1" target="J-MjveByyJUr8qswm52i-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="306" y="392" width="190" height="36" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-56" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;筛选出的10种MOF继续做分子&lt;font style=&quot;background-color: initial; font-size: 14px;&quot;&gt;动力学模拟吸附镍子，得到&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;对铜镍都具有高吸附性能的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MOFs&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="552" y="380" width="192" height="60" as="geometry" />
+          <mxGeometry x="541" y="380" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;共性分析&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="376" width="119" height="31.5" as="geometry" />
