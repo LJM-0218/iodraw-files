@@ -97,7 +97,7 @@
           <mxGeometry x="161" y="627" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-11" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;从中挑选&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;290组MOF进行&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;分子动力学模拟计算真实水环境下对Cu&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;&lt;sup&gt;2+&lt;/sup&gt;的&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;吸附能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="-19" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="240" width="164" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
