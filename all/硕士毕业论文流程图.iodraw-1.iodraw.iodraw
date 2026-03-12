@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="f8afIZ6d4IgrNbndpCdv">
-    <mxGraphModel dx="352" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,8 +101,10 @@
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-7" value="&lt;p style=&quot;font-size: 14px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基于二阶段最优模型，&lt;/font&gt;对第一阶段筛选得到的代表性候选MOFs进行应用适配分析，系统考察其在不同吸附时间、投加量、pH及初始浓度条件下对Cu&lt;sup&gt;2+&lt;/sup&gt;/Ni&lt;sup&gt;2+&lt;/sup&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;的吸附响应规律。&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="598" width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oSYGNMyR4Q0MpQ0apfu2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.466;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oSYGNMyR4Q0MpQ0apfu2-11" target="J-MjveByyJUr8qswm52i-47">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oSYGNMyR4Q0MpQ0apfu2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="oSYGNMyR4Q0MpQ0apfu2-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;从中挑选&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;290组MOF进行&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;分子动力学模拟计算真实水环境下对Cu&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;&lt;sup&gt;2+&lt;/sup&gt;的&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;吸附能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Times New Roman;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="306" y="224" width="180" height="70" as="geometry" />
