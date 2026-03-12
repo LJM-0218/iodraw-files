@@ -19,17 +19,6 @@
         <mxCell id="J-MjveByyJUr8qswm52i-12" value="&lt;p style=&quot;font-size: 15px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;基于&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;CORE-MOF&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据库计算水在孔道中的亨利系数，&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;并以&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ZIF-8&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;的水亨利系数&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;作为亲&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;/&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;疏水划分阈值，在阈值两侧分别抽取&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2000&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;个样本形成共&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;4000&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;个候选&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;MOF&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;集合&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="172" y="130" width="460" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="J-MjveByyJUr8qswm52i-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="401" y="380" as="sourcePoint" />
-            <mxPoint x="402" y="414" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="380" />
-              <mxPoint x="400" y="400" />
-              <mxPoint x="402" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;建立包含输入及输出的机器学习模型用以筛选剩余的3710组MOFs吸附能&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="172" y="339" width="480" height="41" as="geometry" />
         </mxCell>
@@ -48,9 +37,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J-MjveByyJUr8qswm52i-52" target="J-MjveByyJUr8qswm52i-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oSYGNMyR4Q0MpQ0apfu2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="J-MjveByyJUr8qswm52i-52" target="oSYGNMyR4Q0MpQ0apfu2-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-52" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;筛选TOP10MOFs&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
