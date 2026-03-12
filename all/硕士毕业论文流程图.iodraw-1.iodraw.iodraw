@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;建立包含输入及输出的机器学习模型用以筛选剩余的3710组MOFs吸附能&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="170" y="339" width="480" height="52" as="geometry" />
+          <mxGeometry x="170" y="339" width="480" height="41" as="geometry" />
         </mxCell>
         <mxCell id="J-MjveByyJUr8qswm52i-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J-MjveByyJUr8qswm52i-52" target="J-MjveByyJUr8qswm52i-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-7" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; text-indent: 32px;&quot;&gt;基于二阶段模型对代表性候选材料开展工况敏感性分析，从动力学、剂量效应、&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; text-indent: 32px;&quot;&gt;pH&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; text-indent: 32px;&quot;&gt;影响与初始浓度响应等维度系统刻画材料性能随工况变化的响应规律，量化不同材料的条件敏感性与潜在最优操作窗口，为后续实验验证、参数优化与工程化选材提供了可操作的定量支撑。&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="161" y="627" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oSYGNMyR4Q0MpQ0apfu2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="oSYGNMyR4Q0MpQ0apfu2-11" target="J-MjveByyJUr8qswm52i-52">
+        <mxCell id="oSYGNMyR4Q0MpQ0apfu2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="oSYGNMyR4Q0MpQ0apfu2-11" target="J-MjveByyJUr8qswm52i-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oSYGNMyR4Q0MpQ0apfu2-11" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;从中挑选&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;290组MOF进行&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;分子动力学模拟计算真实水环境下对Cu&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;&lt;sup&gt;2+&lt;/sup&gt;的&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; background-color: initial;&quot;&gt;吸附能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
