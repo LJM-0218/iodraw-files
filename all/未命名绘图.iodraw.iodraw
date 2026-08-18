@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2AXxAi0SG1lg04F5_5Lc-2" value="&lt;div&gt;原图&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;深度学习分割网络&lt;/div&gt;&lt;div&gt;(U-Net / DeepLab / SegFormer)&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;焊缝mask&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;中心线提取&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;曲率约束优化&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;&amp;nbsp;|&lt;/div&gt;&lt;div&gt;输出机器人焊接路径&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
