@@ -16,7 +16,7 @@
         <mxCell id="VbQXVer7V24rz2jJmWDO-1" value="模型分割效果合格" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VbQXVer7V24rz2jJmWDO-5" value="分割块neng&#39;fou&#39;xiu&#39;f" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VbQXVer7V24rz2jJmWDO-5" value="分割块能否修复" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
