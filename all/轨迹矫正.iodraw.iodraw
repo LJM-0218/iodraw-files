@@ -49,8 +49,10 @@
         <mxCell id="VbQXVer7V24rz2jJmWDO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VbQXVer7V24rz2jJmWDO-16" target="VbQXVer7V24rz2jJmWDO-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VbQXVer7V24rz2jJmWDO-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VbQXVer7V24rz2jJmWDO-16" target="VbQXVer7V24rz2jJmWDO-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VbQXVer7V24rz2jJmWDO-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VbQXVer7V24rz2jJmWDO-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="405" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;检测内外轨迹是否合格&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="375" width="160" height="60" as="geometry" />
@@ -119,9 +121,6 @@
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;no&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="692" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VbQXVer7V24rz2jJmWDO-51" value="内外轨迹能否修复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;no&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="375" width="60" height="30" as="geometry" />
