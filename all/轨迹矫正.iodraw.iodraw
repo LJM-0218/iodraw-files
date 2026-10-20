@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;异常点存在性判定&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="582" width="180" height="80" as="geometry" />
+          <mxGeometry x="320" y="582" width="180" height="78" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VbQXVer7V24rz2jJmWDO-41">
           <mxGeometry relative="1" as="geometry">
@@ -82,13 +82,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;点集中异常点是否修复&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="700" width="200" height="70" as="geometry" />
+          <mxGeometry x="310" y="690" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;终止当前处理并返回结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="592" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="667" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="659" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;no&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="592" width="60" height="30" as="geometry" />
