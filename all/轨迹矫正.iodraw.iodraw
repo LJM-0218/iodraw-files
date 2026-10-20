@@ -94,11 +94,17 @@
         <mxCell id="VbQXVer7V24rz2jJmWDO-39" value="直接返回" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-50" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VbQXVer7V24rz2jJmWDO-41" value="异常点修复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VbQXVer7V24rz2jJmWDO-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VbQXVer7V24rz2jJmWDO-41" target="VbQXVer7V24rz2jJmWDO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbQXVer7V24rz2jJmWDO-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;异常点修复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VbQXVer7V24rz2jJmWDO-44" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
