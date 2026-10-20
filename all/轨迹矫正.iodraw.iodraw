@@ -107,7 +107,7 @@
             <mxPoint x="410" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VbQXVer7V24rz2jJmWDO-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;异常点修复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VbQXVer7V24rz2jJmWDO-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;轨迹异常点修复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="805" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
