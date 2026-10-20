@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;修复分割块&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="246" width="60" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提取内外轨迹&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="250" width="60" height="30" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="350" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="402" y="823" width="60" height="30" as="geometry" />
+          <mxGeometry x="399" y="820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VbQXVer7V24rz2jJmWDO-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;修复后验&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="960" width="180" height="80" as="geometry" />
