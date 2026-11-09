@@ -31,9 +31,6 @@
         <mxCell id="wIQQJM7c964bWo5gs4es-6" value="完成原轨迹偏移输出偏移后的txt文档" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="420" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wIQQJM7c964bWo5gs4es-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="wIQQJM7c964bWo5gs4es-11" value="直接输出文档" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="425" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,7 +38,7 @@
           <mxGeometry x="590" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wIQQJM7c964bWo5gs4es-15" value="开启图像增强" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="550" width="240" height="60" as="geometry" />
+          <mxGeometry x="322" y="540" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIQQJM7c964bWo5gs4es-17" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="60" height="30" as="geometry" />
