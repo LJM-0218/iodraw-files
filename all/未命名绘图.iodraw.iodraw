@@ -30,6 +30,9 @@
         <mxCell id="wIQQJM7c964bWo5gs4es-6" value="完成原轨迹偏移输出偏移后的txt文档" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="338" y="420" width="208" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wIQQJM7c964bWo5gs4es-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
