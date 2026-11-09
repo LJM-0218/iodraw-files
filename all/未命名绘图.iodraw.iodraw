@@ -16,8 +16,8 @@
         <mxCell id="wIQQJM7c964bWo5gs4es-2" value="先插点补密整个轨迹段落，记录弧长并计算切向、法向、曲率、弧长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="342" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIQQJM7c964bWo5gs4es-4" value="通过make_bumps_from_traj&amp;nbsp; &amp;nbsp;# 按几何决定鼓包位置/幅度/宽度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="320" width="200" height="60" as="geometry" />
+        <mxCell id="wIQQJM7c964bWo5gs4es-4" value="通过make_bumps_from_traj按几何决定鼓包位置/幅度/宽度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="320" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
