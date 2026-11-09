@@ -22,16 +22,17 @@
         <mxCell id="wIQQJM7c964bWo5gs4es-4" value="通过make_bumps_from_traj按几何决定鼓包位置/幅度/宽度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332" y="320" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIQQJM7c964bWo5gs4es-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIQQJM7c964bWo5gs4es-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="450" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wIQQJM7c964bWo5gs4es-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIQQJM7c964bWo5gs4es-6" target="wIQQJM7c964bWo5gs4es-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wIQQJM7c964bWo5gs4es-6" value="完成原轨迹偏移输出偏移后的txt文档" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="420" width="270" height="70" as="geometry" />
+          <mxGeometry x="307" y="420" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wIQQJM7c964bWo5gs4es-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wIQQJM7c964bWo5gs4es-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="425" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
