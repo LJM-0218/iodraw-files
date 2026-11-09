@@ -7,7 +7,7 @@
         <mxCell id="wIQQJM7c964bWo5gs4es-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIQQJM7c964bWo5gs4es-1" target="wIQQJM7c964bWo5gs4es-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wIQQJM7c964bWo5gs4es-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通过load_pts_txt读取after后的txt轨迹文档&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIQQJM7c964bWo5gs4es-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通过load_pts_txt读取after后的txt轨迹文档&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIQQJM7c964bWo5gs4es-2" value="先插点补密整个轨迹段落，记录弧长并计算切向、法向、曲率、弧长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
