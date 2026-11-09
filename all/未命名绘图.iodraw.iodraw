@@ -58,7 +58,7 @@
         <mxCell id="wIQQJM7c964bWo5gs4es-20" value="通过核掩码定义核内为实白（255），然后逐步向外做像素衰减，外核做雾状弥散" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="740" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIQQJM7c964bWo5gs4es-22" value="最终输出增强后的焊接图以及偏移后的轨迹txt以及偏移后的点画到原图上" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIQQJM7c964bWo5gs4es-22" value="最终输出增强后的焊接图以及偏移后的轨迹txt以及偏移后的点画到原图上" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="313" y="840" width="258" height="60" as="geometry" />
         </mxCell>
       </root>
