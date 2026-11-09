@@ -52,7 +52,7 @@
         <mxCell id="wIQQJM7c964bWo5gs4es-18" value="先通过_bump.txt以及原始轨迹文档定位鼓包位置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="640" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIQQJM7c964bWo5gs4es-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIQQJM7c964bWo5gs4es-20" value="通过核掩码定义核内为实白（255），然后逐步向外做像素衰减" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
